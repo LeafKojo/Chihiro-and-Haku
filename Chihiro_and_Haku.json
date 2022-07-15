@@ -1,0 +1,23 @@
+{
+  "manifest": {
+    "author": "",
+    "version": "0.0.1",
+    "name": "Chihiro and Haku",
+    "transparency_mode": 3
+  },
+  "background": {
+    "url": "https://media.discordapp.net/attachments/693905462625566722/997339648164638770/unknown.png?width=377&height=670",
+    "overlay_alpha": 150,
+    "blur_radius": 1
+  },
+  "simple_colors": {
+    "statusbar": -15650719,
+    "active_channel": -13079412,
+    "input_background": -15985111,
+    "mention_highlight": -11975620,
+    "accent": -5974795,
+    "background": 15603736
+  },
+  "colors": {},
+  "drawable_tints": {}
+}
